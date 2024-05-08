@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    나는 사랑이 좋습니다
+    나는 사람이 좋습니다
     </div>
   );
 }
